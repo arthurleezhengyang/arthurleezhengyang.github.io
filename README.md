@@ -1,1 +1,1 @@
-# static website for h2 computing 
+static website for h2 computing
